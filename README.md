@@ -181,5 +181,3 @@ This project has solidified the understanding and application of design patterns
 I am prepared to walk through the codebase, explaining the design decisions made throughout the development process. Creativity and spontaneity were key factors considered during the implementation of this project.
 
 ---
-
-Feel free to replace the placeholder with your actual GitHub repository link. If you need any more adjustments or additional details, just let me know!
