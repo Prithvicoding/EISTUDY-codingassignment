@@ -174,7 +174,7 @@ Next, create the necessary Java files as follows:
 
 This project has solidified the understanding and application of design patterns, coding standards, and best practices in software development. The code for both exercises has been uploaded to GitHub for review.
 
-[GitHub Repository](https://github.com/Prithvicoding/astronaut-schedule-organizer)
+[GitHub Repository](https://github.com/Prithvicoding/EISTUDY-codingassignment)
 
 ## Walkthrough
 
